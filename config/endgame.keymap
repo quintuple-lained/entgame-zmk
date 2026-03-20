@@ -148,7 +148,7 @@
         };
 
         rm {
-            bindings = <&kp BACKSPACE>;
+            bindings = <&kp DEL>;
             key-positions = <8 9>;
         };
     };
